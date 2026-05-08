@@ -11,5 +11,5 @@ Open Terminal:
 swift build -c release &&
 cp .build/release/appcleaner /usr/local/bin/appcleaner`
 
-and then and terminal call appcleaner
+and then in terminal call appcleaner
 `appcleaner --help`
