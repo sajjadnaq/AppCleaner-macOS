@@ -1,6 +1,6 @@
 # AppCleaner-macOS
 
-AppCleaner is a Swift-based command-line app uninstaller for macOS. It scans /Applications and ~/Applications, lets you search/filter and pick an app, discovers common “leftover” files in ~/Library (and some /Library locations), shows sizes + total disk usage, then moves everything to Trash with a confirmation prompt.
+AppCleaner is a open source and free Swift-based command-line app uninstaller for macOS. It scans /Applications and ~/Applications, lets you search/filter and pick an app, discovers common “leftover” files in ~/Library (and some /Library locations), shows sizes + total disk usage, then moves everything to Trash with a confirmation prompt.
 
 
 How to use
