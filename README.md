@@ -8,9 +8,9 @@ How to use
 This is a Swift Package Manager CLI. The executable target is appcleaner.
 
 Open Terminal:
-`cd /Users/daniel/Desktop/Project/AppCleaner/AppCleaner/cli` &&
-`swift build -c release` &&
-`cp .build/release/appcleaner /usr/local/bin/appcleaner`
+`cd /Users/daniel/Desktop/Project/AppCleaner/AppCleaner/cli &&
+swift build -c release &&
+cp .build/release/appcleaner /usr/local/bin/appcleaner`
 
 and then and terminal call appcleaner
 `appcleaner --help`
